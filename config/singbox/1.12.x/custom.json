@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "her3.xyz",
+      "domain_suffix": [
+        "her3.xyz"
+      ]
+    }
+  ]
+}
